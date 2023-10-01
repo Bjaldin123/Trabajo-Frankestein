@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto_Frankestein</string>
+    <string-array name="colores">
+        <item>Azul</item>
+        <item>Blanco</item>
+        <item>Rojo</item>
+    </string-array>
+</resources>
